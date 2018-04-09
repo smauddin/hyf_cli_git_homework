@@ -27,8 +27,8 @@ Finally, run the script and make sure the directory and the files were created a
 
 
 Tips:
- - you should use the following commands: `cd`, `pwd`, `mkdir`, `>`, `ls`, `>>`, `cat`, `cp`
- - in git you should use: `git init`, `git clone <URL>`, `git checkout -b branch_name`, `git add`, `git commit`, `git push`
+ - useful command line commands: `cd`, `pwd`, `mkdir`, `>`, `ls`, `>>`, `cat`, `cp`
+ - useful git commands: `git init`, `git clone <URL>`, `git checkout -b branch_name`, `git add`, `git commit`, `git push`
  - a shell script should have the extension .sh
  - to run a shell script use `sh file_name.sh`
  - useful VIM commands: save and exit: `:wq`; exit without saving: `:q!`; start insert mode: `i`; start command mode; press `ESC`
