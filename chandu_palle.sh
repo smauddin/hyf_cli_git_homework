@@ -2,11 +2,11 @@ mkdir cabage
 cd cabage
 pwd
 touch orange.txt
-echo "Hello" > ornage.txt
+echo "Hello" > orange.txt
 echo "Hello" >> orange.txt
 echo "Hello" >> orange.txt
 echo "Hello" >> orange.txt
-echo "Hello" >> ornage.txt
+echo "Hello" >> orange.txt
 cp orange.txt 1.txt
 cp orange.txt 2.txt
 cp orange.txt 3.txt
