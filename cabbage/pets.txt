@@ -1,0 +1,6 @@
+cat
+dog
+hamster
+cat
+dog
+hamster
